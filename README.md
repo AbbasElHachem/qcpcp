@@ -40,10 +40,10 @@ El Hachem, A., Seidel, J., Imbery, F., Junghänel, T., and Bárdossy, A.: Techni
 #### Identified outlier [Python code 2]
 
 ##### Time series target and neighbors
-![stn_P03231_ngbrs_2008_05_14 08_00_00](https://user-images.githubusercontent.com/22959071/201071744-7037b069-5fb5-46fc-a889-b58b2c8f76d2.png)
+![stn_P03231_ngbrs_2008_05_14 08_00_00](https://user-images.githubusercontent.com/22959071/201103671-cbf77a69-f137-4f24-9c97-1c3d2a4d7c2c.png)
 
 ##### Event spatial configuration with Radar image
-![radar_stn_P03231_2008_05_14 08_00_00__after](https://user-images.githubusercontent.com/22959071/201071903-7c54f691-4a69-454f-8c0d-1dfdf97cab7c.png)
+![radar_stn_P03231_2008_05_14 08_00_00__after](https://user-images.githubusercontent.com/22959071/201103852-94f375c0-01f6-45e7-aa1f-4d28cb5b5075.png)
 
 -----------------------------------------------------------------------------------------------
 

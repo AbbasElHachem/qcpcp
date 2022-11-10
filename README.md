@@ -1,7 +1,7 @@
 # qcpcp : quality control of precipitation observations
- Space-Time Statistical Quality Control of Extreme Precipitation Observation
+ ### Space-Time Statistical Quality Control of Extreme Precipitation Observation
  
- ##### Goal:
+ #### Goal:
  
  0) Transform data using Box-Cox transormation with suitable parameter (example code 1)
  1) Find outlier in precipitation data by cross-validation approach using neighboring observations (example code 2)
@@ -44,17 +44,21 @@ El Hachem, A., Seidel, J., Imbery, F., Junghänel, T., and Bárdossy, A.: Techni
 
 ##### Event spatial configuration with Radar image
 ![radar_stn_P03231_2008_05_14 08_00_00__after](https://user-images.githubusercontent.com/22959071/201071903-7c54f691-4a69-454f-8c0d-1dfdf97cab7c.png)
+
 -----------------------------------------------------------------------------------------------
 
 #### Data availability:
 
+
 The precipitation data and the radar data were made available by the German Weather Service (DWD) [https://opendata.dwd.de/climate_environment/CDC/]. The discharge data were made available by the environmental state of Bavaria and can be requested [https://www.lfu.bayern.de/index.htm]
+
 -----------------------------------------------------------------------------------------------
 
 #### Used packages for Github example code:
 1) PyKrige: Benjamin Murphy, Roman Yurchak, & Sebastian Müller. (2022). GeoStat-Framework/PyKrige: v1.7.0 (v1.7.0). Zenodo. https://doi.org/10.5281/zenodo.7008206
 2) adjusttext: https://adjusttext.readthedocs.io/en/latest/
 3) statsmodels: https://www.statsmodels.org/devel/
+
 -----------------------------------------------------------------------------------------------
 
 #### Note: this is an exmaple case, in the paper a modified code was used with Variogram estimation and personal kriging code. These are not updated to keep things simple.

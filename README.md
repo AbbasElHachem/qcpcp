@@ -8,6 +8,10 @@
  2) Identified outliers (a false observation or a single event) should be verified by discharge or radar data.
  3) Repeat the procedure over several temporal aggregations (to account for advection)
  
+ 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7310836.svg)](https://doi.org/10.5281/zenodo.7310836)
+
 -----------------------------------------------------------------------------------------------
 
 ### Reference paper:

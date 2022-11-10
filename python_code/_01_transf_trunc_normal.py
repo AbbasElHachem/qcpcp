@@ -44,8 +44,8 @@ from statsmodels.distributions.empirical_distribution import ECDF
 from pandas.plotting import register_matplotlib_converters
 register_matplotlib_converters()
 
-plt.rcParams.update({'font.size': 22})
-plt.rcParams.update({'axes.labelsize': 18})
+plt.rcParams.update({'font.size': 18})
+plt.rcParams.update({'axes.labelsize': 14})
 
 # Data Path
 # =============================================================================
@@ -189,7 +189,7 @@ df_skews_orig = df_skews_orig[df_skews_orig > 0]
 df_skews_transf = df_skews_transf[df_skews_transf > 0]
 
 plt.ioff()
-fig = plt.figure(figsize=(20, 12), dpi=100)
+fig = plt.figure(figsize=(12, 8), dpi=100)
 ax = fig.add_subplot(111)
 
 for stn in df_lambda.columns:
@@ -216,7 +216,7 @@ plt.close()
 
 
 plt.ioff()
-fig = plt.figure(figsize=(20, 12), dpi=100)
+fig = plt.figure(figsize=(12, 8), dpi=100)
 ax = fig.add_subplot(111)
 
 for stn in df_skews_transf.columns:

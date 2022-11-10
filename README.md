@@ -1,7 +1,7 @@
 # qcpcp
  Space-Time Statistical Quality Control of Extreme Precipitation Observation
  
- #####Goal:
+ ##### Goal:
  
  Find outlier in precipitation data by cross-validation approach using neighboring observations.
  Identified outliers (a false observation or a single event) should be verified by discharge or radar data.

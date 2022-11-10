@@ -1,4 +1,4 @@
-# qcpcp qc^{2}: quality control of precipitation observations
+# qcpcp (qc<sup>2</sup>): quality control of precipitation observations
  ### Space-Time Statistical Quality Control of Extreme Precipitation Observation
  
  #### Goal:

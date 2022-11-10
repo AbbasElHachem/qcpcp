@@ -25,6 +25,7 @@ El Hachem, A., Seidel, J., Imbery, F., Junghänel, T., and Bárdossy, A.: Techni
 
 #### Study area
 <img width="448" alt="Location_case_study" src="https://user-images.githubusercontent.com/22959071/201070366-ad23af3d-d7e0-42b4-a2d0-844f44e83600.png">
+
 -----------------------------------------------------------------------------------------------
 
 #### Box-Cox transformation [Python code 1]

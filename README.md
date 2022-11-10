@@ -30,10 +30,10 @@ El Hachem, A., Seidel, J., Imbery, F., Junghänel, T., and Bárdossy, A.: Techni
 #### Box-Cox transformation [Python code 1]
 
 ##### Skewness before and after transformation
-![Skew_before_after](https://user-images.githubusercontent.com/22959071/201070653-e2d9d788-1567-4080-8b0e-89e0cfa75d04.png)
+![Skew_before_after](https://user-images.githubusercontent.com/22959071/201102430-b36586ee-93a7-4058-b00c-66a7dd27bdf3.png)
 
 ##### Average transformation factor
-![Transf_factor_lambda](https://user-images.githubusercontent.com/22959071/201071596-219dbedf-112a-431e-9c7a-0b77c8c5fed9.png)
+![Transf_factor_lambda](https://user-images.githubusercontent.com/22959071/201102531-2dff63a7-ddac-4380-ba77-c81e7aedc68c.png)
 
 -----------------------------------------------------------------------------------------------
 
